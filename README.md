@@ -8,15 +8,16 @@ Expert annotated 25 sentences using precision,recall and f1-score for each of th
 separately with the fine-tuned models predictions and expert annotated labels,
 you can see them in the Comaprison folder
 The results are:
-For IndicNER,it gave as:
-  - macro precision: 0.20931908834635435
+For IndicNER:
+    macro precision: 0.20931908834635435
   - macro_recall: 0.19763993960247306
   - f1-score: 0.20037437048556733  
-For ChatGPT,it gave as:.
+
+For ChatGPT:
   - Macro_precision: 0.3245192307692308
   - Macro_Recall: 0.19300768813691277
   - Macro_F1-score: 0.20940091727858176
-For IndicBERT,it gave as:
+For IndicBERT:
   - Precision: 0.3923867974500886
   - Recall: 0.3443784924688974
   - F1-Score: 0.3629307783719548
