@@ -9,18 +9,19 @@ separately with the fine-tuned models predictions and expert annotated labels,
 you can see them in the Comaprison folder
 The results are:
 For IndicNER:
-    macro precision: 0.20931908834635435
-  - macro_recall: 0.19763993960247306
-  - f1-score: 0.20037437048556733  
+  - Macro Precision: 0.20931908834635435
+  - Macro Recall: 0.19763993960247306
+  - Macro F1-score: 0.20037437048556733  
 
 For ChatGPT:
-  - Macro_precision: 0.3245192307692308
-  - Macro_Recall: 0.19300768813691277
-  - Macro_F1-score: 0.20940091727858176
+  - Macro Precision: 0.3245192307692308
+  - Macro Recall: 0.19300768813691277
+  - Macro F1-score: 0.20940091727858176
+    
 For IndicBERT:
-  - Precision: 0.3923867974500886
-  - Recall: 0.3443784924688974
-  - F1-Score: 0.3629307783719548
+  - Macro Precision: 0.3923867974500886
+  - Macro Recall: 0.3443784924688974
+  - Macro F1-Score: 0.3629307783719548
 
 Analyzing the comparison:
 - Compared with all the models above,IndicBERT seem to perform
